@@ -1,9 +1,11 @@
 👋 Olá, eu sou o Biel Almeida 
-- 
+
 - 👀 Estudante de Análise e desenvolvimento de sistemas
+- 💙 Tech Runner na Justa de Recife
 - 💞️ Fissurado Por robótica, e competidor por três anos da First Lego League
 - 🚀 Campeão da temporada Into Orbit da FLL
 - 📫 Pronome: ele/dele
+- 
 
 <div align="center">
   <a href="https://github.com/Bi3lalmeida">
