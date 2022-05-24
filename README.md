@@ -8,13 +8,10 @@
 
 <h3>Informations</h3>
 <ul>
-<li><strong>Full Name</strong>: Marcos Vinícius Farias Mendes</li>
-<li><strong>Age</strong>: 25</li>
+<li><strong>Full Name</strong>: Gabriel Almeida De Sousa Silva</li>
+<li><strong>Age</strong>: 18</li>
 <li><strong>City</strong>: Pernambuco - PE</li>
-<li>
-<a href="https://marcos-mendes.netlify.app/" target="_blank">Portifólio <a/>
-<li/>
-<strong>Web Stack</strong><br><br>
+
 <span>
 <img
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
