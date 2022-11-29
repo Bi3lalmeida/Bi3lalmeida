@@ -1,7 +1,7 @@
 👋 Hello
 
 - 👀 Estudante de Análise e desenvolvimento de sistemas
-- 💙 Tech Runner na Justa Soluções Financeiras
+- 💙 Estagiário como Dev Front-end na Justa Soluções Financeiras
 - 💞️ Fissurado Por robótica, e competidor por três anos da First Lego League
 - 📫 Pronome: ele/dele
 
