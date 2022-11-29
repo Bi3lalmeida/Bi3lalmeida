@@ -9,7 +9,7 @@
 <h3>Informations</h3>
 <ul>
 <li><strong>Full Name</strong>: Gabriel Almeida De Sousa Silva</li>
-<li><strong>Age</strong>: 18</li>
+<li><strong>Age</strong>: 19</li>
 <li><strong>City</strong>: Pernambuco - PE</li>
 
 
